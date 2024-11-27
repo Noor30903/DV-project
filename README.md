@@ -37,5 +37,4 @@ The dataset used in this project is an **Amazon sales dataset** sourced from Kag
 
    ```bash
    git clone https://github.com/yourusername/ecommerce-sales-analysis.git
-   cd ecommerce-sales-analysis
 
